@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukkea" alt="dukkea" /></a> </p>
 
-- 🔭 I’m currently working on [my owm site](https://www.andres-duque.com/)
+- 🔭 I’m currently working on [my own site](https://www.andres-duque.com/)
 
 - 🌱 I’m currently learning **Next.JS, Node.JS and Nest.JS**
 
