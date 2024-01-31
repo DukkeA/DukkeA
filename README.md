@@ -29,6 +29,9 @@
 DukkeA/DukkeA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<hr/>
+<hr/>
+<hr/>
 
 <h1 align="center">Hola 👋, soy Andrés Duque</h1>
 <h3 align="center">Un apasionado Desarrollador Web de Colombia</h3>
